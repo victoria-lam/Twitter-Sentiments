@@ -164,7 +164,7 @@ plt.show()
 ```
 
 
-![png]("Sentiment scatter.png")
+![png](Sentiment scatter.png)
 
 
 ## Overall Media Sentiment 
